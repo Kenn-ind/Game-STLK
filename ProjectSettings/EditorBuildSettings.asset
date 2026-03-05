@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuUtama.unity
     guid: c4855c2d941e46747aee0285230b462f
   - enabled: 1
-    path: Assets/Scenes/prolog.unity
+    path: Assets/Scenes/level.unity
+    guid: 0c961613ce37eb046abcacc53f49ceb7
+  - enabled: 0
+    path: Assets/Scenes/prolog(rusak).unity
     guid: 02ccc905f6eb6944f876ad7aca58c3cb
   - enabled: 0
     path: Assets/Scenes/level 1.unity

@@ -53,7 +53,7 @@ public class Menu : MonoBehaviour
     IEnumerator LoadSceneAfterFade()
     {
         yield return new WaitForSeconds(3.5f); // sesuaikan dengan durasi animasi
-        SceneManager.LoadScene("prolog");
+        SceneManager.LoadScene("level");
     }
 
 }
