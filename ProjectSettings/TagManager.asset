@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bahaya
+  - Ground
+  - audio
+  - Coin
+  - weakspot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - musuh
+  - Water
+  - UI
+  - coin
+  - Player
+  - rumput
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 241849281
+    locked: 0
+  - name: 2Cloud
+    uniqueID: 3252027645
+    locked: 0
+  - name: 3Backgorund
+    uniqueID: 2615548093
+    locked: 0
+  - name: 4Grass
+    uniqueID: 2441596393
+    locked: 0
+  - name: 5Tree
+    uniqueID: 22788543
+    locked: 0
+  - name: 6BigOne
+    uniqueID: 3003255603
+    locked: 0
+  - name: 7floor
+    uniqueID: 2423114431
+    locked: 0
+  - name: 8Idk
+    uniqueID: 3145887481
+    locked: 0
+  - name: Player
+    uniqueID: 2167883933
+    locked: 0
+  - name: UI
+    uniqueID: 1322890439
+    locked: 0
